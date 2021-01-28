@@ -10,7 +10,7 @@ After running this command, you will need to enter your MySQL password.
 
 In order to show all MySQL users, we must run the following querie in mysql root:
 
-``
+```
 > SELECT user FROM mysql.user;
 ```
 this command will display list of all the users.
